@@ -1,0 +1,13 @@
+name = "EffectMC"
+filename = "effectmc-neoforge-1.21-3.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9AELtAj4/versions/LYEfiyuU/effectmc-neoforge-1.21-3.1.0.jar"
+hash-format = "sha512"
+hash = "475a5e0093e69a5c2c6511f4e8de6c3576ff039728c0ca466f30fdddb481c95294534d4969dcfadede37198cae47c5eb41df526cf36b8a2bb269c1176fd003eb"
+
+[update]
+[update.modrinth]
+mod-id = "9AELtAj4"
+version = "LYEfiyuU"

@@ -1,12 +1,12 @@
 name = "MoCreate"
 author = "MoSadie"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7805674e8acad8abf64ce0e035bac22c0862750d73a88125dc9cbf1613a605ba"
+hash = "a846925f81d2a764a7cb22887457bf506e6be27f390dc2f012d3aeaca48b5b10"
 
 [versions]
 minecraft = "1.21.1"

@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "8ab06d863d9ab7017327b074f4304b516ba47119831ed2690cd9a60b721fd2fa"
+hash = "d79c6acf7b4646175124345daae6f3fd000e362bb89724e5b8ed1b5b1e18b6f1"
 metafile = true
 
 [[files]]
@@ -141,12 +141,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3210eecdbe8650d99b13d5a8c8c8590a8ea2548b2cba0b2a64e8d4120571653c"
+hash = "17ffede678924aa27782eb98ea984220e3973f2b78d581b417b8471f1a3168b0"
 metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
-hash = "25c196d1706a86c766d5868f8d8d4b53dfefdde3b5b6165c5c5297a7560e412e"
+hash = "62f2bc6dc8bc5dcbccf2ff23d9614f1f457e6afddd80d91ac26bd55dc9a75d56"
 metafile = true
 
 [[files]]
